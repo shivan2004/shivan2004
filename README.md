@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I am Shivan Samala and I'm a 2nd year student at Kakatiya Institute of Technology and Science.</p>
-
+<!--
 ###
 
 <h2 align="left">About me</h2>
@@ -45,3 +45,4 @@
 </div>
 
 ###
+-->
